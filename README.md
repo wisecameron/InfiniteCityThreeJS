@@ -1,3 +1,5 @@
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/wisecameron/InfiniteCityThreeJS/blob/main/demogif.gif))
+
 <div align="center">
   <br>
   <br>
