@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="#">
-  	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk5ZmZqOGZqaXJ1b29mNmJ2d2g0dnF5Y3F3cWU1YXU1aWx1NGdzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KaqgnVERSWDPSRQKS8/giphy.gif" alt="Logo project" height="160" />
-  </a>
   <br>
   <br>
   <p>
